@@ -6,7 +6,7 @@
 
 char b = 0;
 
-int main(void)
+int main(void) //main
 {   
     while (1) // Para que realice la pregunta una y otra vez
     {
